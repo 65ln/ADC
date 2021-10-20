@@ -1,2 +1,2 @@
 # ADC
-the projict of xiao sir
+the project of xiao sir
